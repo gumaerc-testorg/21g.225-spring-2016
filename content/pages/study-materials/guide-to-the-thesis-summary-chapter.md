@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Study Materials
+parent_type: CourseSection
 parent_uid: 3d0924c7-63da-6c98-a769-cd3832f34a97
 title: Guide to the Thesis Summary Chapter
 uid: d439635d-a46c-e9d5-41d5-3f01f345960e

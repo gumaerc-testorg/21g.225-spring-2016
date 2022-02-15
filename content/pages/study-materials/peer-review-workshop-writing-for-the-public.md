@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Study Materials
+parent_type: CourseSection
 parent_uid: 3d0924c7-63da-6c98-a769-cd3832f34a97
 title: 'Peer Review Workshop: Writing for the Public'
 uid: 8fa344d6-8ab9-3ee9-5801-6a5eab917d0c

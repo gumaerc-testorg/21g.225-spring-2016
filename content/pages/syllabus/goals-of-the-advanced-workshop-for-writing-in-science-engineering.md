@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Syllabus
+parent_type: CourseSection
 parent_uid: 111c19cc-a569-0125-9797-37b03b6331c4
 title: Goals of the Advanced Workshop for Writing in Science & Engineering
 uid: 6fa78d88-0c22-8c29-3cea-3a250408ec57

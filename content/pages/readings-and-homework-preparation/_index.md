@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings and Homework Preparation
 uid: f67e416f-77de-7ab7-6baf-2273d4824ae4
 ---

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Study Materials
+parent_type: CourseSection
 parent_uid: 3d0924c7-63da-6c98-a769-cd3832f34a97
 title: 'Abstract / Introduction: Checklist'
 uid: 819b0cfe-a2d7-f05e-c44c-60f409589360
