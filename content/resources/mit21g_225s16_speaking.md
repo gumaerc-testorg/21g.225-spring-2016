@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 3d0924c7-63da-6c98-a769-cd3832f34a97
 resourcetype: Document
 title: '21G.225S16 Advanced Workshop in Writing for Science & Engineering: Professional
   Speaking'

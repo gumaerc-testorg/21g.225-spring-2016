@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings and Homework Preparation
 parent_type: CourseSection
+parent_uid: f67e416f-77de-7ab7-6baf-2273d4824ae4
 resourcetype: Document
 title: '21G.226S16 Advanced Workshop in Writing for Science & Engineering: Nano-presentations'
 uid: f4058e82-0dad-2cf1-13ff-1c156c36b3ca

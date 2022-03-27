@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings and Homework Preparation
 parent_type: CourseSection
+parent_uid: f67e416f-77de-7ab7-6baf-2273d4824ae4
 resourcetype: Document
 title: '21G.225S16 Workshop in Writing for Science Engineering: Thesis Summary'
 uid: 8872009c-ee4d-33a0-a0df-4235c6ba5327

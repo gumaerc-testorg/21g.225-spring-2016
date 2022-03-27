@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings and Homework Preparation
 parent_type: CourseSection
+parent_uid: f67e416f-77de-7ab7-6baf-2273d4824ae4
 resourcetype: Document
 title: '21G.225S16 Workshop in Writing for Science Engineering: Thesis Abstract Preparation'
 uid: 2734f329-7972-4fc1-f5df-3b80bf2e2f0f
