@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
+parent_uid: null
 title: Readings and Homework Preparation
 uid: f67e416f-77de-7ab7-6baf-2273d4824ae4
 ---
@@ -423,7 +424,7 @@ Rezavi, Mohsen. "[Long-distance Quantum Communication with Neutral Atoms](https:
 
 _Task 1_
 
-Follow Driscoll's guidelines (see {{% resource_link 3d0924c7-63da-6c98-a769-cd3832f34a97 "Study Materials" %}}) as you analyze the model abstract. How closely does the EECS abstract conform the guidelines?
+Follow Driscoll's guidelines (see {{< resource_link 3d0924c7-63da-6c98-a769-cd3832f34a97 "Study Materials" >}}) as you analyze the model abstract. How closely does the EECS abstract conform the guidelines?
 
 _Task 2_
 
@@ -643,7 +644,7 @@ Two-minute research presentations
 
 Flaherty, Colleen. "[Snapshot Dissertation](https://www.insidehighered.com/news/2013/02/22/duke-proposes-mandatory-short-video-pitch-accompany-dissertations)." _Inside Higher Ed_, February 22, 2013.
 
-{{% resource_link 16ec3974-9a28-6e2c-e581-a31df80952b1 "From Conference Paper to Conference Talk: Nano-presentations" %}}
+{{< resource_link 16ec3974-9a28-6e2c-e581-a31df80952b1 "From Conference Paper to Conference Talk: Nano-presentations" >}}
 
 ### View
 
