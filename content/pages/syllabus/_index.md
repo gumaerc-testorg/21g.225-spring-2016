@@ -28,7 +28,7 @@ Goals and Expectations
 
 In 21G.225 / 6, you can expect to improve efficiency and fluency through drafting, revising, and sharing in the writing process. You will learn how to anticipate reader's needs and meet their expectations. You will become familiar with appropriate genre conventions in your discipline. You will sharpen your editing skills to increase accuracy in sentence structure and word choice, and you will develop confidence in yourself as a global professional.
 
-For further detail, see [Goals of the Advanced Workshop for Writing in Science & Engineering]({{< baseurl >}}/pages/syllabus/goals-of-the-advanced-workshop-for-writing-in-science-engineering).
+For further detail, see {{% resource_link 6fa78d88-0c22-8c29-3cea-3a250408ec57 "Goals of the Advanced Workshop for Writing in Science & Engineering" %}}.
 
 Required Texts and Materials
 ----------------------------
@@ -45,7 +45,7 @@ Oxford University Press. _New Oxford American Dictionary_. 3rd ed. Oxford Univer
 
 A published formal, academic article, or model paper, reporting on research from a respected English language, refereed academic journal in your field, or from [_Nature_](http://www.nature.com/nature/index.html). The article _must_ include an abstract, subheadings, figures, tables and references. The article may not be a letter or conference proceedings. Bring one copy to the instructor; have another copy with you in every 21G.225 / 6 class.
 
-For more of the course readings, please see the table in the [Readings]({{< baseurl >}}/pages/readings-and-homework-preparation) section.
+For more of the course readings, please see the table in the {{% resource_link f67e416f-77de-7ab7-6baf-2273d4824ae4 "Readings" %}} section.
 
 Grading Policy
 --------------
@@ -146,4 +146,4 @@ Final long paper
 
 {{< tableclose >}}
 
-For more information on the papers listed in the table above, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For more information on the papers listed in the table above, see the {{% resource_link 8e360434-44c3-fc07-877e-802467777765 "Assignments" %}} section.
