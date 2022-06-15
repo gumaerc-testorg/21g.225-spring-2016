@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a checklist on writing a technical memo.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Study Materials
@@ -8,7 +10,6 @@ parent_uid: 3d0924c7-63da-6c98-a769-cd3832f34a97
 title: Technical Memo Checklist
 uid: 545b4500-8283-bb5d-3108-84c4e85a3973
 ---
-
 Before you hand in your best draft of your technical memo, be sure you can make the following claims:
 
 1.  My format conforms to memo conventions and helps the reader navigate the text and predict the text that follows:
