@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: This sections contains additional texts, materials, and websites related
+  to the course.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Related Resources
 uid: b95bcbad-0d3b-bd4b-3674-3b31f63cd023
 ---
@@ -17,7 +18,7 @@ Azar, Betty Schrampfer. _Chartbook –_ __A Reference Grammar:_ Understanding an
 
 Gillett, Andy. [_Using English for Academic Purposes: A Guide for Students in Higher Education_](http://www.uefap.com/).
 
-McGaskill, Mary K. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Grammar, Punctuation, and Capitalization: A Handbook for Technical Writers and Editors_. (PDF)](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19900017394.pdf) NASA Office of Management, Scientific and Technical Information Division, 1990.
+McGaskill, Mary K. [_Grammar, Punctuation, and Capitalization: A Handbook for Technical Writers and Editors_. (PDF)](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19900017394.pdf) NASA Office of Management, Scientific and Technical Information Division, 1990.
 
 Michaelson, Herbert B. _How to Write & Publish Engineering Papers & Reports_. 3rd ed. Greenwood, 1990. ISBN: 9780897746502.
 

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains tips for presenting posters.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Study Materials

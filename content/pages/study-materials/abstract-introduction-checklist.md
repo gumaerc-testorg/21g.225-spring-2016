@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains questions to use to frame constructive feedback
+  in peer reviews.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Study Materials

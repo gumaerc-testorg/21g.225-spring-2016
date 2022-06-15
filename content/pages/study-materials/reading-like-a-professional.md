@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains information on how to read scientific and technical
+  documents like a professional.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Study Materials

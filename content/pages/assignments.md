@@ -1,9 +1,9 @@
 ---
 content_type: page
+description: This section contains information on the papers required for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
-parent_uid: null
 title: Assignments
 uid: 8e360434-44c3-fc07-877e-802467777765
 ---
@@ -17,7 +17,7 @@ In one-to-two pages, describe your motivation for taking this workshop. Discuss 
 
 ### Exercise 2
 
-Explore some of the on-line resources listed in the {{< resource_link b95bcbad-0d3b-bd4b-3674-3b31f63cd023 "Related Resources" >}} section. Choose two and, for each, write a ½-page "review" that provides the answers to the following questions:
+Explore some of the on-line resources listed in the {{% resource_link b95bcbad-0d3b-bd4b-3674-3b31f63cd023 "Related Resources" %}} section. Choose two and, for each, write a ½-page "review" that provides the answers to the following questions:
 
 *   How did you choose which resources to explore?
 *   How well does the resource meet the needs of MIT students?
@@ -26,7 +26,7 @@ Explore some of the on-line resources listed in the {{< resource_link b95bcbad-0
 
 ### Exercise 3: Summary of an Article Written for a General Audience
 
-Read the three examples from _New York Times_ Science Section in the {{< resource_link f67e416f-77de-7ab7-6baf-2273d4824ae4 "Readings and Homework Preparation" >}} section, choose one article to summarize and do three steps:
+Read the three examples from _New York Times_ Science Section in the {{% resource_link f67e416f-77de-7ab7-6baf-2273d4824ae4 "Readings and Homework Preparation" %}} section, choose one article to summarize and do three steps:
 
 *   Print out that article.
 *   On the hard copy, identify (highlight or underline) all the features of the text that show sensitivity to non-specialist readers.

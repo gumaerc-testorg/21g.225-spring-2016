@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains guidelines on creating a thesis summary.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Study Materials
