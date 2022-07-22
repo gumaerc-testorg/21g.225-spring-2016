@@ -5,6 +5,7 @@ file: /courses/21g-225-advanced-workshop-in-writing-for-science-and-engineering-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings and Homework Preparation
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '21G.226S16 Advanced Workshop in Writing for Science & Engineering: Nano-
 uid: f4058e82-0dad-2cf1-13ff-1c156c36b3ca
 ---
 This resource contains information regarding Nano-presentations.
-

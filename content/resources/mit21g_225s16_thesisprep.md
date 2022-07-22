@@ -6,6 +6,7 @@ file: /courses/21g-225-advanced-workshop-in-writing-for-science-and-engineering-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings and Homework Preparation
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '21G.225S16 Workshop in Writing for Science Engineering: Thesis Abstract 
 uid: 2734f329-7972-4fc1-f5df-3b80bf2e2f0f
 ---
 This resource contains information regarding thesis abstract preparation guidelines.
-
