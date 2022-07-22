@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains the course topics, exercise and memo info, and
+  assignment due dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 34dbc004-dac7-0f5b-76ba-0c0df7f85b47
 ---
@@ -323,7 +327,7 @@ Quiz 4: Relative clauses
 
 {{< tdclose >}}
 {{< tdopen >}}
-After reading the articles for this session (see the [Readings and Homework Preparation]({{< baseurl >}}/pages/readings-and-homework-preparation) section), record any questions that arise about professional goals and barriers to those goals. These questions will frame our class discussion.
+After reading the articles for this session (see the {{% resource_link f67e416f-77de-7ab7-6baf-2273d4824ae4 "Readings and Homework Preparation" %}} section), record any questions that arise about professional goals and barriers to those goals. These questions will frame our class discussion.
 {{< tdclose >}}
 
 {{< trclose >}}

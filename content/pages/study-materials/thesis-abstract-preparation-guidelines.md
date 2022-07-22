@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: This section contains guidelines on creating a thesis abstract.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Study Materials
+parent_type: CourseSection
 parent_uid: 3d0924c7-63da-6c98-a769-cd3832f34a97
 title: Thesis Abstract Preparation Guidelines
 uid: ba58945f-8b8a-118c-92bc-ab63b9d8ed0f

@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section contains a checklist of strategies to use while writing,
+  as well as international style guidelines.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Study Materials
+parent_type: CourseSection
 parent_uid: 3d0924c7-63da-6c98-a769-cd3832f34a97
 title: 'Writing Strategy Checklist: Questions to Ask'
 uid: 9401d117-9d0d-bd08-5fce-05a43ab0fda7

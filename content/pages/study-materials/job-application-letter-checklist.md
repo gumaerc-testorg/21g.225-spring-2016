@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: This section contains a checklist on writing a job application letter.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Study Materials
+parent_type: CourseSection
 parent_uid: 3d0924c7-63da-6c98-a769-cd3832f34a97
 title: Job Application Letter Checklist
 uid: 49ae2683-593f-e557-23dc-1d5683db0aee

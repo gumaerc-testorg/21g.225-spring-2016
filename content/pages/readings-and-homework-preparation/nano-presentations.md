@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section contains a class activity, The Academic Minute.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings and Homework Preparation
+parent_type: CourseSection
 parent_uid: f67e416f-77de-7ab7-6baf-2273d4824ae4
 title: Nano-presentations
 uid: 16ec3974-9a28-6e2c-e581-a31df80952b1

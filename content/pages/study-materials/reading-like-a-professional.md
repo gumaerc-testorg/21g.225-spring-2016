@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section contains information on how to read scientific and technical
+  documents like a professional.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Study Materials
+parent_type: CourseSection
 parent_uid: 3d0924c7-63da-6c98-a769-cd3832f34a97
 title: Reading Like a Professional
 uid: 8ce3b1ab-573d-e2fc-b2e9-d16974209313
