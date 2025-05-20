@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information regarding thesis summary. '
-file: /ol-ocw-studio-app/courses/21g-225-advanced-workshop-in-writing-for-science-and-engineering-els-spring-2016/8872009cee4d33a0a0df4235c6ba5327_MIT21G_225S16_ThesisSummary.pdf
+file: /courses/21g-225-advanced-workshop-in-writing-for-science-and-engineering-els-spring-2016/8872009cee4d33a0a0df4235c6ba5327_MIT21G_225S16_ThesisSummary.pdf
 file_size: 223785
 file_type: application/pdf
 learning_resource_types:
