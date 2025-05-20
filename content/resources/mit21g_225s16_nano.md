@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding Nano-presentations.
-file: /ol-ocw-studio-app/courses/21g-225-advanced-workshop-in-writing-for-science-and-engineering-els-spring-2016/f4058e820dad2cf113ff1c156c36b3ca_MIT21G_225S16_Nano.pdf
+file: /courses/21g-225-advanced-workshop-in-writing-for-science-and-engineering-els-spring-2016/f4058e820dad2cf113ff1c156c36b3ca_MIT21G_225S16_Nano.pdf
 file_size: 111733
 file_type: application/pdf
 learning_resource_types:

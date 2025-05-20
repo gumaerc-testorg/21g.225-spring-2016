@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding thesis abstract preparation
   guidelines.
-file: /ol-ocw-studio-app/courses/21g-225-advanced-workshop-in-writing-for-science-and-engineering-els-spring-2016/2734f32979724fc1f5df3b80bf2e2f0f_MIT21G_225S16_ThesisPrep.pdf
+file: /courses/21g-225-advanced-workshop-in-writing-for-science-and-engineering-els-spring-2016/2734f32979724fc1f5df3b80bf2e2f0f_MIT21G_225S16_ThesisPrep.pdf
 file_size: 230985
 file_type: application/pdf
 learning_resource_types:
