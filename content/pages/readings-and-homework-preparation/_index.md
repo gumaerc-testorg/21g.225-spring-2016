@@ -214,7 +214,7 @@ Fischer, Beth A., and Michael J. Zigmond. "[Twenty Steps to Writing a Research A
 
 Loui, Michael C. "[Seven Ways to Plagiarize: Handling Real Allegations of Research Misconduct](https://www.ncbi.nlm.nih.gov/pubmed/12501721)." *Science and Engineering Ethics* 8, no. 4 (2002): 529–39.
 
-Newhouse, Margaret. "[Transferable Skills](http://www.unl.edu/gradstudies/current/news/transferable-skills)."
+Newhouse, Margaret. "[Transferable Skills](https://ut-ie.com/t-z/transfer_skills.html)."
 
 ### Take the quiz:
 
@@ -270,8 +270,8 @@ Su, Guolong. ["Polynomial Decomposition Algorithims in Signal Processing."](http
 
 Examine these abstracts and answer the following questions.
 
-Is each a clear example of specific type of abstract? Which kind?        
-How closely does each abstract conform to conventional guidelines/readers' expectations?        
+Is each a clear example of specific type of abstract? Which kind?         
+How closely does each abstract conform to conventional guidelines/readers' expectations?         
 Can you easily locate
 
 - The objectives of the research?
