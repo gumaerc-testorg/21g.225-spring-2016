@@ -45,7 +45,7 @@ Houghton Mifflin Company. _The American Heritage Dictionary_. 5th ed. Dell, 2012
 
 Oxford University Press. _New Oxford American Dictionary_. 3rd ed. Oxford University Press, 2010. ISBN: 9780195392883.
 
-A published formal, academic article, or model paper, reporting on research from a respected English language, refereed academic journal in your field, or from [_Nature_](http://www.nature.com/nature/index.html). The article _must_ include an abstract, subheadings, figures, tables and references. The article may not be a letter or conference proceedings. Bring one copy to the instructor; have another copy with you in every 21G.225 / 6 class.
+A published formal, academic article, or model paper, reporting on research from a respected English language, refereed academic journal in your field, or from {{% resource_link "2a340c33-009d-467d-8fd2-17eb4c30545b" "_Nature_" %}}. The article _must_ include an abstract, subheadings, figures, tables and references. The article may not be a letter or conference proceedings. Bring one copy to the instructor; have another copy with you in every 21G.225 / 6 class.
 
 For more of the course readings, please see the table in the {{% resource_link f67e416f-77de-7ab7-6baf-2273d4824ae4 "Readings" %}} section.
 
